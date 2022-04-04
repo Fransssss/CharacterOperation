@@ -2,7 +2,7 @@
 Character Operations
 
 Learning Goals
-- Using <cctype> library
+- Using cctype library
 - Using foo loop to identify each index (i) from user input
 - Identify alphabetical character
 - Identify digit character
